@@ -1,2 +1,2 @@
-# sintaxe-e-operadores
- dio tqi fullstack
+Bootcamp DIO TQI Fullstack
+Curso: Sintaxe e Operadores
